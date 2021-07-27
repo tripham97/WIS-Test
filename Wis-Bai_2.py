@@ -1,4 +1,5 @@
-# Bai_2
+# Bai_2 Viết chương trình hỏi người dùng cần tạo bao nhiêu số trong dãy Fibonacci và tạo chúng. 
+#Chuỗi Fibonacci là một dãy số trong đó số tiếp theo trong dãy là tổng của hai số trước đó. Ví dụ của một chuỗi Fibonacci như sau: 1, 1, 2, 3, 5, 8, 13,…
 n = int(input("# of element: "))
 if n<3:
     print("It's not enough element to create Fibonacci string")
